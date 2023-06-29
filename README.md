@@ -9,7 +9,7 @@
 
 ### ***Description***
 
-##### An example website to showcase to password validation in React.
+##### An example website to showcase password validation in React.
 
 ##### The app was deployed and can be viewed [here](https://password-validator.surge.sh/).
 
